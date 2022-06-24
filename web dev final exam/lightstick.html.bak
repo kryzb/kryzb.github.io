@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Kryz Lightstick</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  
+  <link rel="stylesheet" type="text/css" href="Homepage.css">
+</head>
+<body>
+<nav class="navbar navbar navbar-default">
+
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a style="color: black;" class="navbar-brand" href="index.htmll"> <img src="logo.jpg"  alt="Image" height="90" width="90" style="display: inline-block;">
+	  <span style ="font-family:Nunito sans !important;" style="display: inline-block;">K-POP Merchardise</span></a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="dropdown">
+        <a style="color: black;" class="dropdown-toggle" data-toggle="dropdown" href="#">Category
+        <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="lightstick.html">Lightstick</a></li>
+          <li><a href="album.html">Album</a></li>
+        </ul>
+    </ul>
+	<p style = "color:black;" class="navbar-text">Your kpop merchardise store</p>
+    <form class="navbar-form navbar-right" action="/action_page.php">
+      <div class="input-group">
+        <input type="text" class="form-control" placeholder="Search" name="search">
+        <div class="input-group-btn">
+          <button class="btn btn-default" type="Search">
+            <i class="glyphicon glyphicon-search"></i>
+          </button>
+        </div>
+      </div>
+    </form>
+  </div>
+</nav>
+
+<div class="container">
+  <h3>All lightsticks</h3>
+  <div class = "row">
+	<div class= "col-md-3">
+	<div class= "product-top">
+	<img src= "candybongz.jpg" class="img-thumbnail">
+	</div
+	</div>
+	<div class="product-bottom text-center">
+	<a href = "CandybongZ.html" <h3>TWICE CandyBong Z<h3></a>
+	<h5>₱ 2,200.00<h5>
+</div>
+
+</div>
+<div class= "col-md-3">
+	<div class= "product-top">
+	<img src= "blackpink.jpg" class="img-thumbnail">
+	</div
+	</div>
+	<div class="product-bottom text-center">
+	<a href = "blackpink.html" <h3>BLACKPINK Bl-ping-bong <h3></a>
+	<h5>₱ 3,100.00<h5>
+</div>
+</div>
+
+<div class= "col-md-3">
+	<div class= "product-top">
+	<img src= "armybomb.jpg" class="img-thumbnail">
+	</div
+	</div>
+	<div class="product-bottom text-center">
+	<a href = "bts.html" <h3>BTS Army Bomb Ver. 4<h3></a>
+	<h5>₱ 1,500.00<h5>
+</div>
+</div>
+
+<div class= "col-md-3">
+	<div class= "product-top">
+	<img src= "caratbong.jpg" class="img-thumbnail">
+	</div
+	</div>
+	<div class="product-bottom text-center">
+	<a href = "svt.html" <h3>SEVENTEEN Carat Bong<h3></a>
+	<h5>₱ 1,900.00<h5>
+</div>
+</div>
+
+<div class= "col-md-3">
+	<div class= "product-top">
+	<img src= "ikon.jpeg" class="img-thumbnail">
+	</div
+	</div>
+	<div class="product-bottom text-center">
+	<a href = "ikon.html" <h3>iKON Konbat<h3></a>
+	<h5>₱ 1,000.00<h5>
+</div>
+</div>
+
+</div>
+
+</div>
+<br>
+<br>
+<br>
+<div class="footer">
+	<br>
+  <p>All rights reserveed, Kryz Byts D. Lapinig 2022</p>
+</div>
+</body>
+</html>
+

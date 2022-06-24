@@ -1,0 +1,122 @@
+
+.navbar {
+	height: 150%;
+	size: 30px;
+	 min-height:100px;
+	 background-color: #fbb8ff;
+	 
+}
+
+.container-fluid {
+	color: black;
+	
+}
+.navbar-brand { 
+margin-top: -10px;
+font-size:20px;
+font-family:Nunito sans !important;
+
+}
+.nav.navbar-text li a {
+   color: black;
+ }
+ .navbar-text {
+    font-family: Monospace !important;
+	font-size: 30px !important;
+	text-align: center;
+	margin-left: 150px;
+	margin-top:30px;
+}
+
+.dropdown-toggle {
+	margin-top: 21px;
+	font-size:20px;
+	font-family:Nunito sans;
+	margin-left: 40px;
+}
+.nav navbar-nav navbar-right{
+	margin-top: 10px;
+}
+.input-group {
+	margin-top:22px;
+}
+.carousel {
+  width:500px;
+  height:500px;
+
+}
+.candy {
+	margin-left: 635px;
+	font-size: 25px;
+}
+hr {
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+  margin-left: 635px;
+}
+.candyprice {
+	font-size: 30px;
+	margin-left: 635px;
+}
+.quantity {
+    display: flex;
+    justify-content: center;
+
+}
+
+.quantity button {
+    width: 45px;
+    height: 45px;
+    border: 1px solid #000;
+    color: #000;
+    border-radius: 0;
+    background: #fff;
+}
+
+.quantity input {
+    border: none;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    text-align: center;
+    width: 100px;
+    font-size: 20px;
+    color: #000;
+    font-weight: 300;
+}
+
+.total-price {
+    text-align: center;
+    font-size: 30px;
+    color: black;
+}
+
+.total-price .fa-rupee {
+    display: inline-block;
+    font-size: 90%;
+    margin-right: 5px;
+}
+.qty {
+	margin-left:640px;
+	font-size:15px;
+	font-family:monospace;
+}
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700,900|Open+Sans:300,400|Oswald:400,700');
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+    font-weight: normal;
+}
+.prodet{
+	margin-left: 640px;
+}
+.buy {
+	margin-left: 650px;
+
+
